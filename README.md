@@ -1,3 +1,13 @@
+<!--
+ * @Author: FamiliennameistChow nameistchow@hotmail.com
+ * @Date: 2023-06-04 15:40:17
+ * @LastEditors: FamiliennameistChow nameistchow@hotmail.com
+ * @LastEditTime: 2024-03-05 22:05:27
+ * @FilePath: /FamiliennameistChow/README.md
+ * @Description: 
+ * 
+ * Copyright (c) 2024 by FamiliennameistChow, All Rights Reserved. 
+-->
 ### Hi there 👋
 
 <!--
@@ -17,7 +27,7 @@ Here are some ideas to get you started:
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FamiliennameistChow&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-- 👋 Hi, I’m @FamiliennameistChow. Doctor in ECUST.
+- 👋 Hi, I’m @FamiliennameistChow.
 
 - 🔭 I’m currently working on Motion Planning、SLAM、Deep Reinforcement Learning、CV.
 
